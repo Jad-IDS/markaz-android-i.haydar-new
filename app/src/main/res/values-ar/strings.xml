@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">Markaz</string>
+    <string name="share">شارك</string>
+    <string name="ok">حسنا</string>
+    <string name="skip">Skip</string>
+    <string name="login">تخطى</string>
+    <string name="submit">إرسال</string>
+    <string name="Finger">بصمة</string>
+    <string name="Enter">أدخل</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="LoginTo">تسجيل الدخول إلى حسابك</string>
+    <string name="password">كلمه السر</string>
+    <string name="forget">هل نسيت كلمة المرور؟</string>
+    <string name="forget_2">نسيت؟</string>
+    <string name="choose_user">اختر عميل المستخدم</string>
+    <string name="last_lgged_in_on">آخر تسجيل دخول</string>
+    <string name="total_portfolio_value">إجمالي قيمة المحفظة</string>
+    <string name="performance">أداء</string>
+    <string name="asset_allocation_pie_chart">مخطط لتخصيص الأصول</string>
+    <string name="asset_class">فئة الأصول</string>
+    <string name="geographical">الجغرافية</string>
+    <string name="sector">قطاع</string>
+    <string name="currency">عملة</string>
+    <string name="activities_transactions">الأنشطة / المعاملات</string>
+    <string name="reports">التقارير</string>
+    <string name="notifications">إشعارات</string>
+    <string name="general">عام</string>
+    <string name="provide_info">تقديم معلومات محددة</string>
+    <string name="NAV">تحديثات NAV</string>
+    <string name="KYC">انتهاء KYC</string>
+    <string name="logout_message">هل أنت متأكد أنك تريد تسجيل الخروج؟</string>
+    <string name="settings">الإعدادات</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="about">معلومات عنا</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="cash">نقد</string>
+    <string name="action">اتخاذ إجراءات الآن</string>
+
+    <string name="total_cash">إجمالي الموقف النقدي</string>
+    <string name="gain_loss">الربح / الخسارة</string>
+    <string name="equities">الأسهم</string>
+    <string name="qnt">الكمية:</string>
+    <string name="last_day">بالأمس</string>
+    <string name="mtd">من شهر</string>
+    <string name="security">الأمان</string>
+    <string name="wtd">من أسبوع</string>
+    <string name="ytd">من سنة</string>
+    <string name="inception">نشأه</string>
+    <string name="chart">مخطط</string>
+    <string name="portfolio">محفظة</string>
+    <string name="percentage">النسبة المئوية</string>
+    <string name="benchmark">المعيار</string>
+    <string name="from">من</string>
+    <string name="to">إلى</string>
+    <string name="markaz_email">almarkaz@info.com</string>
+    <string name="markaz_phone">00 965 468 374</string>
+    <string name="google_maps_key" translatable="false">AIzaSyAn--autuSz4xETI4vX6plt0ZWUE79VYIk</string>
+
+    <string name="contact_us">اتصل بنا</string>
+
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+
+    <string name="dialog_ok">حسنا</string>
+    <string name="cancel">إلغاء</string>
+    <string name="check_empty_fields">يرجى التحقق من الحقول الفارغة</string>
+    <string name="welcome_mr">مرحبا بك سيد</string>
+    <string name="portfolio_name">اسم المحفظة</string>
+    <string name="portfolio_kwd">المحفظة</string>
+    <string name="cash_aft">النقدية AFT</string>
+    <string name="deposits">الودائع</string>
+    <string name="blocked">محظور</string>
+    <string name="div_due">Div Due</string>
+    <string name="other_receivable">المستحقون الآخرون</string>
+    <string name="mngt_fees">الرسوم الإدارية المستحقة</string>
+    <string name="other_payable">دفع مستحقات أشياء أخرى</string>
+    <string name="tcash_position">موقف T النقدي</string>
+
+    <string name="download_failed">فشل التنزيل ، يجب السماح بالإذن للتخزين</string>
+    <string name="downloading">جارى التحميل...</string>
+    <string name="download_complete">تم التحميل</string>
+    <string name="language">لغة</string>
+
+    <string name="f_arabic" translatable="false">عربي</string>
+    <string name="f_english" translatable="false">English</string>
+    <string name="version">الإصدار</string>
+    <string name="biometric_login">تسجيل الدخول البيومترية</string>
+    <string name="current_currency">العملة الحالية</string>
+    <string name="chat">دردش معنا</string>
+    <string name="feedback">اترك تقييم للخدمة</string>
+    <string name="KYC_expire">KYC الخاص بك على وشك الانتهاء</string>
+    <string name="fragment_message">Tum dicere exorsus est elignedi optio, cumque nihli impedit, quo</string>
+
+    <string name="update_message">يتوفر إصدار جديد ، يرجى التحديث</string>
+    <string name="update_title">تحديث متوفر</string>
+    <string name="update_button">تحديث</string>
+    <string name="update_cancel">إلغاء</string>
+
+    <string name="notification_error_ssl_cert_invalid">شهادة غير صالحة</string>
+    <string name="start_title_1">معرفتنا تدعم أصولك</string>
+    <string name="start_desc_1">خدمات استثمارية حائزة على جوائز منذ عام 1974</string>
+    <string name="start_title_3">يتمحور نجاحنا حولك</string>
+    <string name="start_desc_2">مصلحتنا هي لكسب اهتمامك</string>
+    <string name="start_title_2">تقديم المشورة والعلاقات الدائمة</string>
+    <string name="start_desc_3">نجاحك هو نجاحنا</string>
+    <string name="lest_start">لنبدأ</string>
+
+    <string name="activity">نشاط</string>
+    <string name="home">الرئيسية</string>
+
+    <string name="more">أكثر</string>
+    <string name="overview">نظرة عامة</string>
+    <string name="allocation">توزيع</string>
+    <string name="active">نشيط</string>
+    <string name="total_holdings">إجمالي الحيازات</string>
+    <string name="holdings">الحيازات</string>
+    <string name="buy">يشترى</string>
+    <string name="report_format">شكل التقرير</string>
+    <string name="select_report">حدد التقرير</string>
+    <string name="view">رأي</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="please_select_your_language">الرجاء اختيار لغتك</string>
+    <string name="choose_image">string_choose_image</string>
+    <string name="for_exesting_investments">للاستثمارات الكبرى</string>
+    <string name="for_new_investments">للاستثمارات الجديدة</string>
+    <string name="no_client_account_msg">حسابك ليس لديه أي عميل حتى الآن ، لا يزال بإمكانك المتابعة</string>
+
+
+    <string name="year_to_date">عام حتى اليوم</string>
+    <string name="view_top_5_holdings">عرض أعلى 5 مقتنيات</string>
+    <string name="yesterday">الامس</string>
+    <string name="month_to_date"> شهر حتى التاريخ</string>
+    <string name="markaz_robot">Markaz Robot</string>
+    <string name="markaz_wealth">Markaz Wealth</string>
+    <string name="dd_mm_yyyy">يوم / شهر / سنة</string>
+    <string name="you_can_only_get_reports_from_04_05_2020">يمكنك فقط الحصول على تقارير من</string>
+    <string name="our_knowledge_power_your_assets">معرفتنا تعزز أصولك</string>
+    <string name="award_winning_investment_services_since_1974">خدمات استثمارية حائزة على جوائز منذ عام 1974</string>
+    <string name="assets">الأصول</string>
+    <string name="payables">الذمم الدائنة</string>
+    <string name="receivables">ذمم مدينة</string>
+    <string name="sell">بيع</string>
+    <string name="have_you_tried_smart_advisor">هل جربت المستشار الذكي؟</string>
+    <string name="comming_soon">قريبا</string>
+    <string name="stock">مخزون</string>
+    <string name="unit_cost">تكلفة الوحدة</string>
+    <string name="plz_allow_access">يرجى السماح بالوصول لتغيير الصورة</string>
+    <string name="unable_pick">غير قادر على اختيار الصورة</string>
+    <string name="unable_to_load">غير قادر على التحميل</string>
+    <string name="try_again">حدث خطأ ما. أعد المحاولة من فضلك</string>
+    <string name="quantity">الكمية</string>
+    <string name="unit_price">سعر الوحدة</string>
+    <string name="avarage_cost">متوسط ​​السعر</string>
+    <string name="realized_gl">محقق G / L</string>
+    <string name="auth_succeed">نجحت المصادقة!</string>
+    <string name="cash_available">النقد المتاح</string>
+    <string name="payable_receivable">دائنون / ذمم مدينة</string>
+    <string name="loans">القروض</string>
+    <string name="plz_chs_from_date">يرجى الاختيار من التاريخ</string>
+    <string name="plz_chs_to_date">الرجاء اختيار حتى الآن</string>
+    <string name="select_portfolio">حدد المحفظة</string>
+    <string name="pdf">PDF</string>
+    <string name="word">Word</string>
+    <string name="excel">Excel</string>
+    <string name="no_data">لايوجد بيانات</string>
+    <string name="total_cost">التكلفة الإجمالية</string>
+    <string name="close_price">سعر الإغلاق</string>
+    <string name="total_value">القيمة الإجمالية</string>
+    <string name="unrealize_pl">غير واقعي PL</string>
+    <string name="unrealizepl_per">Unrealize PL%</string>
+    <string name="realize_pl_ytd">غير واقعي PL٪</string>
+    <string name="cash_divended">المال المقسم</string>
+    <string name="qty_aft">الكمية (AFT)</string>
+    <string name="total_account_value">إجمالي قيمة الحساب</string>
+    <string name="units">Units</string>
+    <string name="nav">NAV</string>
+    <string name="plz_choose_report">الرجاء اختيار التقرير</string>
+
+    <string name="cash_ava">الرصيد المتوفر للتداول</string>
+    <string name="cash_div_due">أرباح نقدية مدفوعة</string>
+    <string name="recievable_interest_due">فوائد مدفوعة</string>
+    <string name="fees">الدفعات المستحقة</string>
+    <string name="payable_interest">فوائد مستحقة</string>
+    <string name="payable_others">مستحقات أخرى</string>
+    <string name="choose_currency">اختر العملة</string>
+    <string name="continue_1">استمر</string>
+    <string name="plz_choose_currency">الرجاء اختيار العملة</string>
+    <string name="per_ytd">٪ أداء منذ بداية العام</string>
+    <string name="loading_portfolios">جاري تعبئة المحافظ...</string>
+    <string name="portfolio_must_be_selected">الرجاء اختيار محفظة</string>
+    <string name="sure_leave">هل تريد الخروج ؟</string>
+</resources>
